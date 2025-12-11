@@ -1,6 +1,8 @@
 # codex-handson-starter-repo
 Starter repo for ADs' codex vibe coding session
 
+This is your testing branch
+
 ## Objective
 Create a simple web app involving image gen that could help one of your clients. Some ideas for inspiration:
 - Product images for ecommerce platforms such as Amazon/Shopee, etc
